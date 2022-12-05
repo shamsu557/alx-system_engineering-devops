@@ -1,1 +1,2 @@
-this repo is all about alx system enginerring project
+#!/bin/bash
+redirection input and output
