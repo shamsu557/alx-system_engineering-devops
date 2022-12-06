@@ -1,1 +1,1 @@
-gobal variables
+local variables 
