@@ -1,1 +1,1 @@
-whatsnext script
+hidethisword
