@@ -1,1 +1,1 @@
-finder script
+count script
