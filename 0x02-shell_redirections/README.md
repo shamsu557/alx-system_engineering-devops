@@ -1,1 +1,1 @@
-funny name script
+current state script
