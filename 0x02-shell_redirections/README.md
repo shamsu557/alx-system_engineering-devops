@@ -1,1 +1,1 @@
-current state script
+finder script
