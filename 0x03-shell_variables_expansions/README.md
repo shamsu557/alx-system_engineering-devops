@@ -1,1 +1,1 @@
-hello script
+gobal variables
