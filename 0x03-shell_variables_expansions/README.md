@@ -1,1 +1,1 @@
-creat local variable
+glocal variavle script 
