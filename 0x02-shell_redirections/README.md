@@ -1,1 +1,1 @@
-hidethisword
+list letters
