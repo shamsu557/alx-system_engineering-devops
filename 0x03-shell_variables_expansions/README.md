@@ -1,1 +1,1 @@
-devide and rule script
+love script
