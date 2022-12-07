@@ -1,1 +1,1 @@
-glocal variavle script 
+true knowledge script
