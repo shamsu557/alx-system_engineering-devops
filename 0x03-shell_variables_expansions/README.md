@@ -1,1 +1,1 @@
-true knowledge script
+devide and rule script
