@@ -1,1 +1,1 @@
-encription
+encryption
