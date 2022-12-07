@@ -1,1 +1,1 @@
-love script
+binary to decimal
